@@ -8,7 +8,12 @@
 </head>
 <body>
 
+<<<<<<< HEAD
 	장성환
+=======
+	장성환 <br/>
+	d이순신
+>>>>>>> branch 'master' of https://github.com/coghd99/FinalProject.git
 
 </body>
 </html>
